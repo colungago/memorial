@@ -1,0 +1,17 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+*/.venv/*
+
+# VS Code
+.vscode/
+.settings/
+*.code-workspace
+
+# Miscellaneous
+.DS_Store
+
