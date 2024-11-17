@@ -1,6 +1,6 @@
 import turtle as t
 import random
-from color_extractor import ColorExtractor
+from memorial.image_data_extractor import ColorExtractor
 
 # Extract colors and their proportions
 color_extractor = ColorExtractor("boni.png", 20)

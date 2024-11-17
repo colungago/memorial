@@ -1,6 +1,6 @@
 import colorgram
 
-class ColorExtractor:
+class ImageDataExtractor:
     def __init__(self, path: str, num_of_colors: int):
         self.path = path
         self.num_of_colors = num_of_colors
